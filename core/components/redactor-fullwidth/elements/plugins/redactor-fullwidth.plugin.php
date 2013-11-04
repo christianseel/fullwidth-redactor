@@ -1,3 +1,10 @@
+/*
+ * Redactor-Fullwidth
+ * plugin to remove padding around the Redactor editor
+ *
+ * @author Christian Seel - chsmedien.com
+ */
+
 $modx->regClientStartupHTMLBlock('<style>
 .redactor_box {
 	margin: -15px -15px -19px;
