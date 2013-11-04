@@ -1,0 +1,7 @@
+Fullwidth-Redactor Changelog
+===========================================
+
+
+Fullwidth-Redactor 1.0.0-pl (05.11.2013)
+===========================================
+- inital release
