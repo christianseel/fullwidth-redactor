@@ -19,4 +19,7 @@ $modx->regClientStartupHTMLBlock('<style>
 .redactor_toolbar li a {
 	height: 30px;
 }
+body .redactor_toolbar li a.redactor_btn_styles {
+	background-position: 0 3px;
+}
 </style>');
