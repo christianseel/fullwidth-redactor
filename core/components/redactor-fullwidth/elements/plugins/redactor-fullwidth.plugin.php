@@ -12,8 +12,9 @@ $modx->regClientStartupHTMLBlock('<style>
 	margin: -15px -15px -19px;
 	border: none;
 }
-/* prevent fullwidth when using inside contenblocks by modmore */
-#modx-panel-resource #contentblocks .redactor_box {
+/* prevent fullwidth when using inside contenblocks or moregallery by modmore */
+#modx-panel-resource #contentblocks .redactor_box,
+#modx-panel-resource #mgresource-backbone .redactor_box {
     margin: 0;
     border: 1px solid #ddd;
 }
